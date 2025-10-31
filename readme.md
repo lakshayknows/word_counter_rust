@@ -3,7 +3,7 @@
 [![Rust](https://img.shields.io/badge/Rust-1.80%2B-orange?logo=rust)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)]()
-[![Last Commit](https://img.shields.io/github/last-commit/lakshayknows/word-counter-rust)]([https://github.com/lakshayknows/word-counter-rust](https://github.com/lakshayknows/word_counter_rust))
+[![Last Commit](https://img.shields.io/github/last-commit/lakshayknows/word-counter-rust)](https://github.com/lakshayknows/word-counter-rust)
 
 A simple command-line tool written in **Rust** that reads a line of text from the user and counts the number of words.  
 Built as a practice project while learning **ownership**, **borrowing**, and **I/O handling** in Rust.
