@@ -73,7 +73,7 @@ cargo run
 
 ## 💬 Author
 
-**Your Name**  
+**Lakshay**  
 [GitHub](https://github.com/lakshayknows) • [LinkedIn](https://linkedin.com/in/lakshayhanda)
 
 ---
